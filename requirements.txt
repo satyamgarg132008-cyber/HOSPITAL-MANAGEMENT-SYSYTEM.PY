@@ -1,0 +1,9 @@
+# =============================================================================
+# MEDNOVA AI — INTELLIGENT HOSPITAL MANAGEMENT SYSTEM
+# Python Project Dependencies
+# =============================================================================
+# Python 3.11+ required.
+# Tkinter and SQLite3 are included in the Python standard library on Windows.
+
+# Optional offline speech synthesizer for J.A.R.V.I.S. voice announcements
+pyttsx3>=2.90
